@@ -434,5 +434,18 @@ movie_db: List[Tuple[str, str, int, List[str]]] = [
             "delroy lindo",
             "spike lee",
         ],
+    ),
+    (
+        "Transformers",
+        "Michael Bay",
+        2007,
+        [
+            "Meghan fox",
+            "Shia LaBeouf",
+            "Josh Duhamel",
+            "Rachael Taylor",
+            "Peter Cullen",
+            "John Turturro",
+        ],
     )
 ]
